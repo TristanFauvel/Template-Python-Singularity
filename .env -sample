@@ -1,0 +1,4 @@
+USERNAME = "my_username"
+PASSWORD = "azerty123"
+AUTH_TOKEN ="TOKEN"
+ROOT_FOLER = "/home/"
